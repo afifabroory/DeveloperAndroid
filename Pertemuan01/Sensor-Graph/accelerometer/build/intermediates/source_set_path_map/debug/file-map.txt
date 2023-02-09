@@ -1,0 +1,8 @@
+com.android.accelerometergraph.accelerometer-pngs-0 /home/afifabroory/AndroidStudioProjects/Sensor-Graph/accelerometer/build/generated/res/pngs/debug
+com.android.accelerometergraph.accelerometer-resValues-1 /home/afifabroory/AndroidStudioProjects/Sensor-Graph/accelerometer/build/generated/res/resValues/debug
+com.android.accelerometergraph.accelerometer-rs-2 /home/afifabroory/AndroidStudioProjects/Sensor-Graph/accelerometer/build/generated/res/rs/debug
+com.android.accelerometergraph.accelerometer-mergeDebugResources-3 /home/afifabroory/AndroidStudioProjects/Sensor-Graph/accelerometer/build/intermediates/incremental/debug/mergeDebugResources/merged.dir
+com.android.accelerometergraph.accelerometer-mergeDebugResources-4 /home/afifabroory/AndroidStudioProjects/Sensor-Graph/accelerometer/build/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+com.android.accelerometergraph.accelerometer-merged_res-5 /home/afifabroory/AndroidStudioProjects/Sensor-Graph/accelerometer/build/intermediates/merged_res/debug
+com.android.accelerometergraph.accelerometer-debug-6 /home/afifabroory/AndroidStudioProjects/Sensor-Graph/accelerometer/src/debug/res
+com.android.accelerometergraph.accelerometer-main-7 /home/afifabroory/AndroidStudioProjects/Sensor-Graph/accelerometer/src/main/res

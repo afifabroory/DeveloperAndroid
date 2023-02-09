@@ -1,0 +1,20 @@
+# ninja log v5
+34	4971	1665900964	/home/afifabroory/AndroidStudioProjects/Teapots/common/ndkHelperBin/Debug/arm64-v8a/CMakeFiles/NdkHelper.dir/gestureDetector.cpp.o	99f8c8e81b51710
+25	5154	1665900964	CMakeFiles/TexturedTeapotNativeActivity.dir/AssetUtil.cpp.o	cf883e2a9573e13d
+7	5303	1665900964	CMakeFiles/TexturedTeapotNativeActivity.dir/TeapotNativeActivity.cpp.o	897c6449d0ef1ec6
+5154	5435	1665900964	/home/afifabroory/AndroidStudioProjects/Teapots/common/ndkHelperBin/Debug/arm64-v8a/CMakeFiles/NdkHelper.dir/gl3stub.cpp.o	6e3fed122aa5ab83
+11	5584	1665900964	CMakeFiles/TexturedTeapotNativeActivity.dir/TeapotRenderer.cpp.o	94bc6ade489b2d97
+16	5670	1665900964	CMakeFiles/TexturedTeapotNativeActivity.dir/TexturedTeapotRender.cpp.o	5d6359f71cfc1d7
+4984	8922	1665900968	/home/afifabroory/AndroidStudioProjects/Teapots/common/ndkHelperBin/Debug/arm64-v8a/CMakeFiles/NdkHelper.dir/interpolator.cpp.o	cdb3174f2918ac40
+0	9018	1665900968	CMakeFiles/TexturedTeapotNativeActivity.dir/Texture.cpp.o	ca11b282572f3319
+5435	9030	1665900968	/home/afifabroory/AndroidStudioProjects/Teapots/common/ndkHelperBin/Debug/arm64-v8a/CMakeFiles/NdkHelper.dir/perfMonitor.cpp.o	105ec0af2b97a111
+5670	9190	1665900968	/home/afifabroory/AndroidStudioProjects/Teapots/common/ndkHelperBin/Debug/arm64-v8a/CMakeFiles/NdkHelper.dir/sensorManager.cpp.o	7abc2f96f5a193b5
+5303	9418	1665900968	/home/afifabroory/AndroidStudioProjects/Teapots/common/ndkHelperBin/Debug/arm64-v8a/CMakeFiles/NdkHelper.dir/GLContext.cpp.o	6e3bccd0598d3476
+9191	10010	1665900969	/home/afifabroory/AndroidStudioProjects/Teapots/common/ndkHelperBin/Debug/arm64-v8a/CMakeFiles/native_app_glue.dir/home/afifabroory/Android/Sdk/ndk/22.1.7171670/sources/android/native_app_glue/android_native_app_glue.c.o	f66019c72e197f48
+10010	10464	1665900969	/home/afifabroory/AndroidStudioProjects/Teapots/common/ndkHelperBin/Debug/arm64-v8a/libnative_app_glue.a	240db3c5b21b459d
+9030	11665	1665900970	/home/afifabroory/AndroidStudioProjects/Teapots/common/ndkHelperBin/Debug/arm64-v8a/CMakeFiles/NdkHelper.dir/vecmath.cpp.o	816ace7edff3a079
+5585	11995	1665900971	/home/afifabroory/AndroidStudioProjects/Teapots/common/ndkHelperBin/Debug/arm64-v8a/CMakeFiles/NdkHelper.dir/JNIHelper.cpp.o	79cc730f7a1f6baa
+8922	12063	1665900971	/home/afifabroory/AndroidStudioProjects/Teapots/common/ndkHelperBin/Debug/arm64-v8a/CMakeFiles/NdkHelper.dir/shader.cpp.o	70556e278600e303
+9019	12403	1665900971	/home/afifabroory/AndroidStudioProjects/Teapots/common/ndkHelperBin/Debug/arm64-v8a/CMakeFiles/NdkHelper.dir/tapCamera.cpp.o	bcf626cfb85c616
+12403	12414	1665900971	/home/afifabroory/AndroidStudioProjects/Teapots/common/ndkHelperBin/Debug/arm64-v8a/libNdkHelper.a	bba77928beb34326
+12414	12744	1665900972	/home/afifabroory/AndroidStudioProjects/Teapots/textured-teapot/build/intermediates/cmake/debug/obj/arm64-v8a/libTexturedTeapotNativeActivity.so	d9aeab06b9955676

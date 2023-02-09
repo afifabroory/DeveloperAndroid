@@ -1,0 +1,7 @@
+/home/afifabroory/AndroidStudioProjects/Teapots/textured-teapot/.cxx/cmake/debug/x86/CMakeFiles/rebuild_cache.dir
+/home/afifabroory/AndroidStudioProjects/Teapots/textured-teapot/.cxx/cmake/debug/x86/CMakeFiles/edit_cache.dir
+/home/afifabroory/AndroidStudioProjects/Teapots/textured-teapot/.cxx/cmake/debug/x86/CMakeFiles/TexturedTeapotNativeActivity.dir
+/home/afifabroory/AndroidStudioProjects/Teapots/common/ndkHelperBin/Debug/x86/CMakeFiles/rebuild_cache.dir
+/home/afifabroory/AndroidStudioProjects/Teapots/common/ndkHelperBin/Debug/x86/CMakeFiles/edit_cache.dir
+/home/afifabroory/AndroidStudioProjects/Teapots/common/ndkHelperBin/Debug/x86/CMakeFiles/NdkHelper.dir
+/home/afifabroory/AndroidStudioProjects/Teapots/common/ndkHelperBin/Debug/x86/CMakeFiles/native_app_glue.dir

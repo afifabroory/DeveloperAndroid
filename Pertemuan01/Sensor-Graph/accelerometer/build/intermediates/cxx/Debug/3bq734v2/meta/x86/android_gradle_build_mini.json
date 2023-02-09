@@ -1,0 +1,27 @@
+{
+  "buildFiles": [
+    "/home/afifabroory/AndroidStudioProjects/Sensor-Graph/accelerometer/src/main/cpp/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/home/afifabroory/Android/Sdk/cmake/3.18.1/bin/ninja",
+      "-C",
+      "/home/afifabroory/AndroidStudioProjects/Sensor-Graph/accelerometer/.cxx/Debug/3bq734v2/x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/home/afifabroory/Android/Sdk/cmake/3.18.1/bin/ninja",
+    "-C",
+    "/home/afifabroory/AndroidStudioProjects/Sensor-Graph/accelerometer/.cxx/Debug/3bq734v2/x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "accelerometergraph::@6890427a1f51a3e7e1df": {
+      "artifactName": "accelerometergraph",
+      "abi": "x86",
+      "output": "/home/afifabroory/AndroidStudioProjects/Sensor-Graph/accelerometer/build/intermediates/cxx/Debug/3bq734v2/obj/x86/libaccelerometergraph.so",
+      "runtimeFiles": []
+    }
+  }
+}

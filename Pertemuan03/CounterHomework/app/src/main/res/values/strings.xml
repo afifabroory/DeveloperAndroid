@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Counter Homework</string>
+    <string name="tv_counter">0</string>
+    <string name="btn_counter">Count</string>
+    <string name="et_text">Enter text</string>
+</resources>

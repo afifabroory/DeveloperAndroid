@@ -1,0 +1,40 @@
+{
+  "buildFiles": [
+    "/home/afifabroory/AndroidStudioProjects/Teapots/classic-teapot/src/main/cpp/CMakeLists.txt",
+    "/home/afifabroory/AndroidStudioProjects/Teapots/common/ndk_helper/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/home/afifabroory/Android/Sdk/cmake/3.18.1/bin/ninja",
+      "-C",
+      "/home/afifabroory/AndroidStudioProjects/Teapots/classic-teapot/.cxx/cmake/debug/x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/home/afifabroory/Android/Sdk/cmake/3.18.1/bin/ninja",
+    "-C",
+    "/home/afifabroory/AndroidStudioProjects/Teapots/classic-teapot/.cxx/cmake/debug/x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "native_app_glue::@15dd0bb4cb6bc5bb5af2": {
+      "artifactName": "native_app_glue",
+      "abi": "x86",
+      "output": "/home/afifabroory/AndroidStudioProjects/Teapots/common/ndkHelperBin/Debug/x86/libnative_app_glue.a",
+      "runtimeFiles": []
+    },
+    "TeapotNativeActivity::@6890427a1f51a3e7e1df": {
+      "artifactName": "TeapotNativeActivity",
+      "abi": "x86",
+      "output": "/home/afifabroory/AndroidStudioProjects/Teapots/classic-teapot/build/intermediates/cmake/debug/obj/x86/libTeapotNativeActivity.so",
+      "runtimeFiles": []
+    },
+    "NdkHelper::@15dd0bb4cb6bc5bb5af2": {
+      "artifactName": "NdkHelper",
+      "abi": "x86",
+      "output": "/home/afifabroory/AndroidStudioProjects/Teapots/common/ndkHelperBin/Debug/x86/libNdkHelper.a",
+      "runtimeFiles": []
+    }
+  }
+}

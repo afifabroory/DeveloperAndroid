@@ -1,0 +1,1 @@
+/home/afifabroory/AndroidStudioProjects/Teapots/textured-teapot/build/intermediates/cmake/debug/obj/arm64-v8a

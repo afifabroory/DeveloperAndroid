@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Coding Challenge 02.2</string>
+    <string name="add_item">Add Item</string>
+    <string name="search_text">Search</string>
+    <string name="search_store_location">Search store location</string>
+    <!-- Strings used for fragments for navigation -->
+
+</resources>

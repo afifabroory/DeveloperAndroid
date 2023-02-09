@@ -1,0 +1,3 @@
+# ninja log v5
+0	3802	1665899921	CMakeFiles/accelerometergraph.dir/sensorgraph.cpp.o	6978697efadd0764
+3802	4105	1665899922	/home/afifabroory/AndroidStudioProjects/Sensor-Graph/accelerometer/build/intermediates/cxx/Debug/3bq734v2/obj/arm64-v8a/libaccelerometergraph.so	aa4e4cd7e44c3208

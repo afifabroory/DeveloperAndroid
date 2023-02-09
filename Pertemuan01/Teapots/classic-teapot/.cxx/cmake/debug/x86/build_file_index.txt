@@ -1,0 +1,2 @@
+/home/afifabroory/AndroidStudioProjects/Teapots/classic-teapot/src/main/cpp/CMakeLists.txt
+/home/afifabroory/AndroidStudioProjects/Teapots/common/ndk_helper/CMakeLists.txt

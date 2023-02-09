@@ -1,0 +1,7 @@
+Executable : /home/afifabroory/Android/Sdk/cmake/3.18.1/bin/ninja
+arguments : 
+-C
+/home/afifabroory/AndroidStudioProjects/Teapots/textured-teapot/.cxx/cmake/debug/arm64-v8a
+TexturedTeapotNativeActivity
+jvmArgs : 
+

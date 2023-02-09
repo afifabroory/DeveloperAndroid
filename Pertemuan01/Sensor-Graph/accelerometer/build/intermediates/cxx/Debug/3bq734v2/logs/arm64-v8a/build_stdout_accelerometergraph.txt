@@ -1,0 +1,2 @@
+ninja: Entering directory `/home/afifabroory/AndroidStudioProjects/Sensor-Graph/accelerometer/.cxx/Debug/3bq734v2/arm64-v8a'
+ninja: no work to do.

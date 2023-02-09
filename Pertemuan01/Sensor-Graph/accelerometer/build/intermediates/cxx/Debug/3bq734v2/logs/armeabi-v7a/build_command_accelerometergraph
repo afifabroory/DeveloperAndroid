@@ -1,0 +1,4 @@
+/home/afifabroory/Android/Sdk/cmake/3.18.1/bin/ninja \
+  -C \
+  /home/afifabroory/AndroidStudioProjects/Sensor-Graph/accelerometer/.cxx/Debug/3bq734v2/armeabi-v7a \
+  accelerometergraph

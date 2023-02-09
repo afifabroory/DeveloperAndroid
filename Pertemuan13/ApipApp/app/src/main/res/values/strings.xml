@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Apip App</string>
+    <string name="input_control_activity">Input Control Activity</string>
+    <string name="listview_activity">ListView Activity</string>
+    <string name="recyclerview_activity">RecyclerView Activity</string>
+    <string name="quit_menu">Quit</string>
+</resources>

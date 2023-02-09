@@ -1,0 +1,3 @@
+ninja: Entering directory `/home/afifabroory/AndroidStudioProjects/Sensor-Graph/accelerometer/.cxx/Debug/3bq734v2/x86_64'
+[1/2] Building CXX object CMakeFiles/accelerometergraph.dir/sensorgraph.cpp.o
+[2/2] Linking CXX shared library /home/afifabroory/AndroidStudioProjects/Sensor-Graph/accelerometer/build/intermediates/cxx/Debug/3bq734v2/obj/x86_64/libaccelerometergraph.so

@@ -1,0 +1,1 @@
+/home/afifabroory/AndroidStudioProjects/Teapots/image-decoder/build/intermediates/cmake/debug/obj/x86

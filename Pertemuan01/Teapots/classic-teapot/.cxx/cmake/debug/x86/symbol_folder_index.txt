@@ -1,0 +1,1 @@
+/home/afifabroory/AndroidStudioProjects/Teapots/classic-teapot/build/intermediates/cmake/debug/obj/x86

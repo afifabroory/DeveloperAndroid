@@ -1,0 +1,184 @@
+[
+  {
+    "level_": 0,
+    "message_": "Start JSON generation. Platform version: 16 min SDK version: armeabi-v7a",
+    "file_": "/home/afifabroory/AndroidStudioProjects/Sensor-Graph/accelerometer/src/main/cpp/CMakeLists.txt",
+    "tag_": "debug|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -879362171
+  },
+  {
+    "level_": 0,
+    "message_": "rebuilding JSON /home/afifabroory/AndroidStudioProjects/Sensor-Graph/accelerometer/.cxx/Debug/3bq734v2/armeabi-v7a/android_gradle_build.json due to:",
+    "file_": "/home/afifabroory/AndroidStudioProjects/Sensor-Graph/accelerometer/src/main/cpp/CMakeLists.txt",
+    "tag_": "debug|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1345621661
+  },
+  {
+    "level_": 0,
+    "message_": "- expected json /home/afifabroory/AndroidStudioProjects/Sensor-Graph/accelerometer/.cxx/Debug/3bq734v2/armeabi-v7a/android_gradle_build.json file is not present, will remove stale json folder",
+    "file_": "/home/afifabroory/AndroidStudioProjects/Sensor-Graph/accelerometer/src/main/cpp/CMakeLists.txt",
+    "tag_": "debug|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -881167797
+  },
+  {
+    "level_": 0,
+    "message_": "- missing previous command file /home/afifabroory/AndroidStudioProjects/Sensor-Graph/accelerometer/.cxx/Debug/3bq734v2/armeabi-v7a/metadata_generation_command.txt, will remove stale json folder",
+    "file_": "/home/afifabroory/AndroidStudioProjects/Sensor-Graph/accelerometer/src/main/cpp/CMakeLists.txt",
+    "tag_": "debug|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -128103799
+  },
+  {
+    "level_": 0,
+    "message_": "- command changed from previous, will remove stale json folder",
+    "file_": "/home/afifabroory/AndroidStudioProjects/Sensor-Graph/accelerometer/src/main/cpp/CMakeLists.txt",
+    "tag_": "debug|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1673691821
+  },
+  {
+    "level_": 0,
+    "message_": "removing stale contents from \u0027/home/afifabroory/AndroidStudioProjects/Sensor-Graph/accelerometer/.cxx/Debug/3bq734v2/armeabi-v7a\u0027",
+    "file_": "/home/afifabroory/AndroidStudioProjects/Sensor-Graph/accelerometer/src/main/cpp/CMakeLists.txt",
+    "tag_": "debug|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1454750360
+  },
+  {
+    "level_": 0,
+    "message_": "created folder \u0027/home/afifabroory/AndroidStudioProjects/Sensor-Graph/accelerometer/.cxx/Debug/3bq734v2/armeabi-v7a\u0027",
+    "file_": "/home/afifabroory/AndroidStudioProjects/Sensor-Graph/accelerometer/src/main/cpp/CMakeLists.txt",
+    "tag_": "debug|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -864892916
+  },
+  {
+    "level_": 0,
+    "message_": "executing cmake /home/afifabroory/Android/Sdk/cmake/3.18.1/bin/cmake \\\n  -H/home/afifabroory/AndroidStudioProjects/Sensor-Graph/accelerometer/src/main/cpp \\\n  -DCMAKE_SYSTEM_NAME\u003dAndroid \\\n  -DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON \\\n  -DCMAKE_SYSTEM_VERSION\u003d16 \\\n  -DANDROID_PLATFORM\u003dandroid-16 \\\n  -DANDROID_ABI\u003darmeabi-v7a \\\n  -DCMAKE_ANDROID_ARCH_ABI\u003darmeabi-v7a \\\n  -DANDROID_NDK\u003d/home/afifabroory/Android/Sdk/ndk/22.1.7171670 \\\n  -DCMAKE_ANDROID_NDK\u003d/home/afifabroory/Android/Sdk/ndk/22.1.7171670 \\\n  -DCMAKE_TOOLCHAIN_FILE\u003d/home/afifabroory/Android/Sdk/ndk/22.1.7171670/build/cmake/android.toolchain.cmake \\\n  -DCMAKE_MAKE_PROGRAM\u003d/home/afifabroory/Android/Sdk/cmake/3.18.1/bin/ninja \\\n  -DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003d/home/afifabroory/AndroidStudioProjects/Sensor-Graph/accelerometer/build/intermediates/cxx/Debug/3bq734v2/obj/armeabi-v7a \\\n  -DCMAKE_RUNTIME_OUTPUT_DIRECTORY\u003d/home/afifabroory/AndroidStudioProjects/Sensor-Graph/accelerometer/build/intermediates/cxx/Debug/3bq734v2/obj/armeabi-v7a \\\n  -DCMAKE_BUILD_TYPE\u003dDebug \\\n  -B/home/afifabroory/AndroidStudioProjects/Sensor-Graph/accelerometer/.cxx/Debug/3bq734v2/armeabi-v7a \\\n  -GNinja \\\n  -DANDROID_STL\u003dc++_static\n",
+    "file_": "/home/afifabroory/AndroidStudioProjects/Sensor-Graph/accelerometer/src/main/cpp/CMakeLists.txt",
+    "tag_": "debug|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 79274835
+  },
+  {
+    "level_": 0,
+    "message_": "/home/afifabroory/Android/Sdk/cmake/3.18.1/bin/cmake \\\n  -H/home/afifabroory/AndroidStudioProjects/Sensor-Graph/accelerometer/src/main/cpp \\\n  -DCMAKE_SYSTEM_NAME\u003dAndroid \\\n  -DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON \\\n  -DCMAKE_SYSTEM_VERSION\u003d16 \\\n  -DANDROID_PLATFORM\u003dandroid-16 \\\n  -DANDROID_ABI\u003darmeabi-v7a \\\n  -DCMAKE_ANDROID_ARCH_ABI\u003darmeabi-v7a \\\n  -DANDROID_NDK\u003d/home/afifabroory/Android/Sdk/ndk/22.1.7171670 \\\n  -DCMAKE_ANDROID_NDK\u003d/home/afifabroory/Android/Sdk/ndk/22.1.7171670 \\\n  -DCMAKE_TOOLCHAIN_FILE\u003d/home/afifabroory/Android/Sdk/ndk/22.1.7171670/build/cmake/android.toolchain.cmake \\\n  -DCMAKE_MAKE_PROGRAM\u003d/home/afifabroory/Android/Sdk/cmake/3.18.1/bin/ninja \\\n  -DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003d/home/afifabroory/AndroidStudioProjects/Sensor-Graph/accelerometer/build/intermediates/cxx/Debug/3bq734v2/obj/armeabi-v7a \\\n  -DCMAKE_RUNTIME_OUTPUT_DIRECTORY\u003d/home/afifabroory/AndroidStudioProjects/Sensor-Graph/accelerometer/build/intermediates/cxx/Debug/3bq734v2/obj/armeabi-v7a \\\n  -DCMAKE_BUILD_TYPE\u003dDebug \\\n  -B/home/afifabroory/AndroidStudioProjects/Sensor-Graph/accelerometer/.cxx/Debug/3bq734v2/armeabi-v7a \\\n  -GNinja \\\n  -DANDROID_STL\u003dc++_static\n",
+    "file_": "/home/afifabroory/AndroidStudioProjects/Sensor-Graph/accelerometer/src/main/cpp/CMakeLists.txt",
+    "tag_": "debug|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -866631022
+  },
+  {
+    "level_": 0,
+    "message_": "Exiting generation of /home/afifabroory/AndroidStudioProjects/Sensor-Graph/accelerometer/.cxx/Debug/3bq734v2/armeabi-v7a/compile_commands.json.bin normally",
+    "file_": "/home/afifabroory/AndroidStudioProjects/Sensor-Graph/accelerometer/src/main/cpp/CMakeLists.txt",
+    "tag_": "debug|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -590450831
+  },
+  {
+    "level_": 0,
+    "message_": "done executing cmake",
+    "file_": "/home/afifabroory/AndroidStudioProjects/Sensor-Graph/accelerometer/src/main/cpp/CMakeLists.txt",
+    "tag_": "debug|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1986038072
+  },
+  {
+    "level_": 0,
+    "message_": "write command file /home/afifabroory/AndroidStudioProjects/Sensor-Graph/accelerometer/.cxx/Debug/3bq734v2/armeabi-v7a/metadata_generation_command.txt",
+    "file_": "/home/afifabroory/AndroidStudioProjects/Sensor-Graph/accelerometer/src/main/cpp/CMakeLists.txt",
+    "tag_": "debug|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -935076499
+  },
+  {
+    "level_": 0,
+    "message_": "JSON generation completed without problems",
+    "file_": "/home/afifabroory/AndroidStudioProjects/Sensor-Graph/accelerometer/src/main/cpp/CMakeLists.txt",
+    "tag_": "debug|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -47964988
+  }
+]

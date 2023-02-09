@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.android.accelerometergraph.accelerometer-mergeDebugResources-3:/values/values.xml",
+            "map": [
+                {
+                    "source": "/home/afifabroory/AndroidStudioProjects/Sensor-Graph/accelerometer/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "25",
+                        "startColumns": "4",
+                        "startOffsets": "859",
+                        "endColumns": "75",
+                        "endOffsets": "930"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "75",
+                        "endOffsets": "126"
+                    }
+                }
+            ]
+        }
+    ]
+}

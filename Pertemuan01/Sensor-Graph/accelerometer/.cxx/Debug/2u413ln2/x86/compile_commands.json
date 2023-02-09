@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/afifabroory/AndroidStudioProjects/Sensor-Graph/accelerometer/.cxx/Debug/2u413ln2/x86",
+  "command": "/home/afifabroory/Android/Sdk/ndk/22.1.7171670/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=i686-none-linux-android16 --gcc-toolchain=/home/afifabroory/Android/Sdk/ndk/22.1.7171670/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/afifabroory/Android/Sdk/ndk/22.1.7171670/toolchains/llvm/prebuilt/linux-x86_64/sysroot -Daccelerometergraph_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -std=c++11 -Wall -Werror -O0 -fno-limit-debug-info  -fPIC -o CMakeFiles/accelerometergraph.dir/sensorgraph.cpp.o -c /home/afifabroory/AndroidStudioProjects/Sensor-Graph/accelerometer/src/main/cpp/sensorgraph.cpp",
+  "file": "/home/afifabroory/AndroidStudioProjects/Sensor-Graph/accelerometer/src/main/cpp/sensorgraph.cpp"
+}
+]

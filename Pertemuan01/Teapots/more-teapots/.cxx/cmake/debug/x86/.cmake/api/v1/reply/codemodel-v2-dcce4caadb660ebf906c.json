@@ -1,0 +1,95 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.6.0"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"build" : "/home/afifabroory/AndroidStudioProjects/Teapots/common/ndkHelperBin/Debug/x86",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.4.1"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "/home/afifabroory/AndroidStudioProjects/Teapots/common/ndk_helper",
+					"targetIndexes" : 
+					[
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1
+					],
+					"name" : "MoreTeapotsNativeActivity",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "MoreTeapotsNativeActivity::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-MoreTeapotsNativeActivity-Debug-321ff584d5c24fcdcf88.json",
+					"name" : "MoreTeapotsNativeActivity",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "NdkHelper::@15dd0bb4cb6bc5bb5af2",
+					"jsonFile" : "target-NdkHelper-Debug-d5ecab31455316cedced.json",
+					"name" : "NdkHelper",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "native_app_glue::@15dd0bb4cb6bc5bb5af2",
+					"jsonFile" : "target-native_app_glue-Debug-ea641c12f16ac985c082.json",
+					"name" : "native_app_glue",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/afifabroory/AndroidStudioProjects/Teapots/more-teapots/.cxx/cmake/debug/x86",
+		"source" : "/home/afifabroory/AndroidStudioProjects/Teapots/more-teapots/src/main/cpp"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 1
+	}
+}
